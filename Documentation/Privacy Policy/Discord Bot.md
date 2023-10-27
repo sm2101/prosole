@@ -1,6 +1,6 @@
 # Prosole Discord Bot Privacy Policy
 
-Effective date: October 17th, 2023
+Effective date: October 27th, 2023
 
 ## Introduction
 
