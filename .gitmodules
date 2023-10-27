@@ -1,0 +1,3 @@
+[submodule "prosole-node"]
+	path = prosole-node
+	url = https://github.com/sm2101/prosole-node.git
